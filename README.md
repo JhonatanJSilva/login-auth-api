@@ -1,5 +1,5 @@
 # Login back-end
-## Este projeto back-end foi desenvolvido utilizando Java, Spring Boot, Lombok e o banco de dados H2, Ele fornece a lógica de negócios para a aplicação de login, registro e autenticação via token, complementando o front-end disponível em [front-end](https://github.com/JhonatanJSilva/front-end-login).
+## Este projeto back-end foi desenvolvido para estudos de aplicações full stack utilizando Java, Spring Boot, Lombok e o banco de dados H2, Ele fornece a lógica de negócios para a aplicação de login, registro e autenticação via token, complementando o front-end disponível em [front-end](https://github.com/JhonatanJSilva/front-end-login).
 
 
 
